@@ -81,8 +81,8 @@ if 'RDS_HOSTNAME' in os.environ:
         		'ENGINE': 'django.db.backends.mysql',
         		'NAME': os.environ['django'],
 			'USER': os.environ['django'],
-			'PASSWORD': os.environ['django1234'],
-			'HOST': os.environ['django.ccpytvsrq2i7.us-east-1.rds.amazonaws.com'],
+			'PASSWORD': os.environ['*********'],
+			'HOST': os.environ['**************'],
 			'PORT': os.environ['3306'],
     		}
 	}
